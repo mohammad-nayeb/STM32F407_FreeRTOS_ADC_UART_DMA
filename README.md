@@ -96,6 +96,6 @@ You are free to use, modify, and share it for educational or professional purpos
 
 **Mohammad Nayeb**  
 Embedded Software Developer  
-[LinkedIn](https://linkedin.com/in/mohammad-nayeb) • [GitHub](https://github.com/mohammadna111)
+[LinkedIn](https://linkedin.com/in/mohammad-nayeb) • [GitHub](https://github.com/mohammad-nayeb)
 
 ---
